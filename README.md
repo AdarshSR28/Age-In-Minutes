@@ -1,3 +1,3 @@
 # Age-In-Minutes
 
-A basic beginner app to covert your Age into Minutes
+A basic beginner app to convert your Age into Minutes
